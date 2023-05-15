@@ -17,6 +17,9 @@ You can also click the remember me button if you want to stay logged in. Once yo
 
 # URLS
 http://127.0.0.1:5000/index  This is the home page
+
 http://127.0.0.1:5000/login   This is the login page
+
 http://127.0.0.1:5000/register   This is the register page
+
 http://127.0.0.1:5000/post   This is the post page, you can only access while logged in
